@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include"A.h"
 
-int main()
+void APrint()
 {
-	APrint() ;
+	printf("A\n");
 }
